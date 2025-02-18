@@ -1,5 +1,5 @@
 # News Category Classification  
-fit
+
 ## Project Overview  
 This project classifies news articles into different categories like Business,Science and Technology, Entertainment, Health using Machine Learning. The model is trained on a Kaggle dataset and deployed as a simple Streamlit web app for easy interaction.  
 
